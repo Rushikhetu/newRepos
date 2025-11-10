@@ -1,4 +1,4 @@
 # newRepos
 this is Repository
 <br>
-Author-Rushikhetu Karadi
+Author-Rushikhetu J Karadi
